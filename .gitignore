@@ -1,0 +1,6 @@
+# Catálogo PDF (115 MB — acima do limite do GitHub)
+*.pdf
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
